@@ -24,7 +24,7 @@
 > Global express is a company which operates in the field of water drilling and exploration.. All data is preserved thanks to the external [Leaderboard API service](https://www.notion.so/Leaderboard-API-service-24c0c3c116974ac49488d4eb0267ade3).
  
  <p align="center">
-    <img alt="Screenshot" src="https://user-images.githubusercontent.com/80895497/131903107-c490fb91-96a9-49d3-b136-c88042569c48.png"width="700" height="300">
+    <img alt="Screenshot" src="app_screenshot.png" width="700" height="300">
     <p align="center">screen shot of the Leader Board</p>
 </p>
 
